@@ -15,7 +15,10 @@ Available in Portuguese-Brazil. English version coming soon.
 
 ## Requirements
 
-Pandas 1.3.5
-matplotlib 3.2.2
-numpy 1.21.5
-sklearn 1.0.2
+Pandas
+
+matplotlib
+
+numpy
+
+sklearn

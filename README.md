@@ -1,7 +1,7 @@
-# ML Projects
+# ML Exercises
 Machine Learning Projects developed for training
 
-Here I made open my personal exercise for the classification of exoplanets using shallow machine learning models.
+I did some exercises for classifying exoplanets using shallow machine learning models.
  - Naive Bayes
  - Decision Tree
  - SVM (Kernals: Linear, Polinomial, RBF, Sigmoid)
